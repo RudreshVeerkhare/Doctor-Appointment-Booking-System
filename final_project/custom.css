@@ -1,0 +1,57 @@
+
+window#start_up_window{
+	background-image : url("HMS.jpg");
+}
+
+entry{
+	background-image:none;
+	border-radius : 100px;
+	border : 2px solid #2a5082;
+	color : #2a5082;
+	font-size : 20px;
+	font-family : Laksaman;
+	padding : 0px 0px 0px 30px;
+	font-weight : 900;
+       
+
+}
+
+button{
+	background-image : none;
+	border-image : none;
+	border : 3px solid #2a5082;
+	border-radius : 100px;
+	padding : 5px 10px 2px 10px;
+	font-family : Laksaman;
+	font-weight : 900;
+	font-size : 15px;
+}
+
+button:hover{
+	transition : 500ms;
+	background-color : #2dc1e5;
+	color : white;
+}
+progressbar progress{
+	border-radius : 0px;
+	background-color : green;
+	color : green;
+}
+
+menubar{
+	color : black;
+	opacity : 0.5;
+	background-color : #f5f5f5;
+}
+menuitem{
+	background-image : none;
+	border-image: none;
+	background-color : #f5f5f5;
+	color : black;
+}
+
+menuitem:hover{
+	
+	background-color : red;
+	color : blue;
+}
