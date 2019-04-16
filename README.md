@@ -12,7 +12,7 @@ This application will only run on linux based operating system.
   
 # Instructions :  
 This application consists of two interfaces : 1)admin 2)User  
-&nbsp;&nbsp;&nbsp;&nbsp;**admin interface :**   
+      **admin interface :**   
         username : admin password : admin1234  
         it's for keeping record of available doctors.  
         **Adding doctor :**  
