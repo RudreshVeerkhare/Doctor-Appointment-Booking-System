@@ -5,14 +5,14 @@ This application will only run on linux based operating system.
   
   
 # Steps to run program :  
->1)Open terminal in project folder.  
+1)Open terminal in project folder.  
 2)Use command `sudo su` to run terminal into superuser mode  
 3)Use command `make install` to install all prerequisites for program.  
 4)Finally use command `make` to run program.  
   
 # Instructions :  
 This application consists of two interfaces : 1)admin 2)User  
-      **admin interface :**   
+     > **admin interface :**   
         username : admin password : admin1234  
         it's for keeping record of available doctors.  
         **Adding doctor :**  
