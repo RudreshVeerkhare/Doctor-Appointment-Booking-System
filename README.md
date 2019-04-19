@@ -5,7 +5,7 @@ This application will only run on linux based operating system.
   
   
 # Steps to run program :  
-1)Open terminal in project folder.  
+>1)Open terminal in project folder.  
 2)Use command `sudo su` to run terminal into superuser mode  
 3)Use command `make install` to install all prerequisites for program.  
 4)Finally use command `make` to run program.  
