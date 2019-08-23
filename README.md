@@ -30,4 +30,4 @@ This application consists of two interfaces : 1)admin 2)User
             In myprofile section there will be a button for simple chatbot Alex based on direct string comparison, you can check for list of supported input in *gchat.txt* file.  
         
 **Thanks for visiting...  
-Suggetions are welcome....**
+Suggestions are welcome....**
